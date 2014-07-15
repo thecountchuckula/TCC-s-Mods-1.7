@@ -1,0 +1,17 @@
+[
+{
+  "modid": "CoolWands",
+  "name": "Cool Wands",
+  "description": "A collection of different wands. Each wand can be Enabled/Disabled using the config.",
+  "version": "dev-0.1.2",
+  "mcversion": "1.7.10",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["TheCountChuckula"],
+  "credits": "Pahimar for his LetsModReboot series on Youtube that got me started updating to 1.7.x.",
+  "logoFile": "",
+  "screenshots": [],
+  "parent":"",
+  "dependencies": []
+}
+]

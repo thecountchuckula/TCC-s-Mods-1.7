@@ -1,0 +1,13 @@
+# Key localizations
+key.categories.coolwands=Cool Wands
+
+#Items
+item.coolwands:wandlighting.name=Wand of Hidden Light
+item.coolwands:denseIronIngot.name=Dense Iron Ingot
+item.coolwands:diamondIngot.name=Diamond Ingot
+item.coolwands:bedrockWallPlacer.name=Bedrock Wall Placer
+item.coolwands:rock.name=Rock
+
+#Blocks
+tile.coolwands:glowair.name=Glowing Air
+tile.coolwands:leatherBlock.name=Block of Leather
